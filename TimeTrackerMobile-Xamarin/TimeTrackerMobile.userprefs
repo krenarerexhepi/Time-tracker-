@@ -1,15 +1,13 @@
 ﻿<Properties StartupItem="TimeTrackerMobile\TimeTrackerMobile.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_for_Nexus_4_by_Google" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5_API_21" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TimeTrackerMobile\Tab2Activity.cs">
     <Files>
-      <File FileName="TimeTrackerMobile\MainActivity.cs" Line="53" Column="53" />
+      <File FileName="TimeTrackerMobile\MainActivity.cs" Line="1" Column="1" />
       <File FileName="TimeTrackerMobile\ConnectionsListActivity.cs" Line="1" Column="1" />
       <File FileName="TimeTrackerMobile\ConnectionsActivity.cs" Line="1" Column="1" />
       <File FileName="TimeTrackerMobile\Tab1Activity.cs" Line="1" Column="1" />
-      <File FileName="c:\Users\HP\Documents\Projects\TimeTrackerMobile\TimeTrackerMobile\ArchiveActivity.cs" Line="1" Column="1" />
-      <File FileName="c:\Users\HP\Documents\Projects\TimeTrackerMobile\TimeTrackerMobile\Helpers\DatabaseHelper.cs" Line="3" Column="3" />
-      <File FileName="TimeTrackerMobile\LogInActivity.cs" Line="3" Column="3" />
-      <File FileName="TimeTrackerMobile\Tab2Activity.cs" Line="1" Column="1" />
+      <File FileName="TimeTrackerMobile\LogInActivity.cs" Line="1" Column="1" />
+      <File FileName="TimeTrackerMobile\Tab2Activity.cs" Line="9" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
