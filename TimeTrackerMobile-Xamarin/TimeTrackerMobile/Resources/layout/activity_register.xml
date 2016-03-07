@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.krenarerexhepi.timetrackermobile.RegisterActivity">
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/edtFirstName"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="100dp"
+        android:hint="firstName" />
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/edtLastName"
+        android:layout_below="@+id/edtFirstName"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="10dp"
+        android:hint="lastName" />
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/edtUsername"
+        android:layout_below="@+id/edtLastName"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="10dp"
+        android:hint="username" />
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/edtPassword"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/edtUsername"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="10dp"
+        android:hint="password" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:id="@+id/btnSaveData"
+        android:layout_marginTop="72dp"
+        android:layout_below="@+id/edtPassword"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtCompany"
+        android:layout_below="@+id/edtPassword"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:hint="company"
+        android:layout_marginTop="10dp" />
+</RelativeLayout>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="TimeTrackerMobile.TimeTrackerMobile">
+  <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="16" />
+  <application android:label="TimeTrackerMobile" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:label="MainActivity" android:name="timetrackermobile.MainActivity" />
+    <activity android:icon="@drawable/icon" android:label="LogInActivity" android:name="timetrackermobile.LogInActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="RegisterActivity" android:name="timetrackermobile.RegisterActivity" />
+    <activity android:label="CompanyActivity" android:name="timetrackermobile.CompanyActivity" />
+    <activity android:label="ConnectionsActivity" android:name="timetrackermobile.ConnectionsActivity" />
+    <activity android:label="ConnectionsListActivity" android:name="timetrackermobile.ConnectionsListActivity" />
+    <activity android:label="ArchiveActivity" android:name="timetrackermobile.ArchiveActivity" />
+    <activity android:label="Tab1Activity" android:name="timetrackermobile.Tab1Activity" />
+    <activity android:label="Tab2Activity" android:name="timetrackermobile.Tab2Activity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="TimeTrackerMobile.TimeTrackerMobile.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.TimeTrackerMobile.TimeTrackerMobile" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+</manifest>

@@ -1,0 +1,6 @@
+TimeTracker.MainActivity;timetracker.MainActivity
+TimeTracker.LogInActivity;timetracker.LogInActivity
+TimeTracker.PersonalDataActivity;timetracker.PersonalDataActivity
+TimeTracker.WiFiActivity;timetracker.WiFiActivity
+TimeTracker.SettingsActivity;timetracker.SettingsActivity
+TimeTracker.WiFiTestActivity;timetracker.WiFiTestActivity

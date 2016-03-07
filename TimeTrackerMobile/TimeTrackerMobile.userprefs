@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="TimeTrackerMobile\Time Tracker Mobile.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.AVD_for_Nexus_4_by_Google" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimeTrackerMobile\ArchiveActivity.cs">
+    <Files>
+      <File FileName="TimeTrackerMobile\Properties\AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="TimeTrackerMobile\CompanyActivity.cs" Line="1" Column="1" />
+      <File FileName="TimeTrackerMobile\ConnectionsActivity.cs" Line="1" Column="1" />
+      <File FileName="TimeTrackerMobile\ConnectionsListActivity.cs" Line="1" Column="1" />
+      <File FileName="TimeTrackerMobile\MainActivity.cs" Line="64" Column="46" />
+      <File FileName="TimeTrackerMobile\Tab1Activity.cs" Line="1" Column="1" />
+      <File FileName="TimeTrackerMobile\ArchiveActivity.cs" Line="11" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\HP\Documents\Projects\TimeTrackerMobile\TimeTrackerMobile\Assets\helpers\DatabaseHandler.cs" line="13" column="1" />
+      <Breakpoint file="C:\Users\HP\Documents\Projects\TimeTrackerMobile\TimeTrackerMobile\helpers\DatabaseHandler.cs" line="15" column="1" />
+      <Breakpoint file="C:\Users\HP\Documents\Projects\TimeTrackerMobile\TimeTrackerMobile\ConnectionsListActivity.cs" line="50" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="TimeTrackerMobile\MainActivity.cs" line="35" offsetX="613" offsetY="544" expression="user" liveUpdate="False" />
+    <Watch file="c:\Users\HP\Documents\Projects\TimeTrackerMobile\TimeTrackerMobile\Helpers\DatabaseHelper.cs" line="121" offsetX="319" offsetY="1920" expression="connection" liveUpdate="False" />
+    <Watch file="TimeTrackerMobile\RegisterActivity.cs" line="85" offsetX="592" offsetY="1344" expression="id" liveUpdate="False" />
+    <Watch file="TimeTrackerMobile\Tab1Activity.cs" line="42" offsetX="935" offsetY="656" expression="tData" liveUpdate="False" />
+    <Watch file="c:\Users\HP\Documents\Projects\TimeTrackerMobile\TimeTrackerMobile\Helpers\DatabaseHelper.cs" line="19" offsetX="823" offsetY="288" expression="System.Environment.SpecialFolder" liveUpdate="False" />
+    <Watch file="c:\Users\HP\Documents\Projects\TimeTrackerMobile\TimeTrackerMobile\Helpers\DatabaseHelper.cs" line="553" offsetX="298" offsetY="8736" expression="allEvide" liveUpdate="False" />
+    <Watch file="TimeTrackerMobile\MainActivity.cs" line="89" offsetX="564" offsetY="1408" expression="stockList" liveUpdate="False" />
+    <Watch file="TimeTrackerMobile\MainActivity.cs" line="177" offsetX="998" offsetY="2816" expression="companyData" liveUpdate="False" />
+    <Watch file="TimeTrackerMobile\LogInActivity.cs" line="61" offsetX="613" offsetY="960" expression="user" liveUpdate="False" />
+    <Watch file="TimeTrackerMobile\Tab1Activity.cs" line="52" offsetX="529" offsetY="816" expression="connection" liveUpdate="False" />
+    <Watch file="TimeTrackerMobile\LogInActivity.cs" line="102" offsetX="627" offsetY="1616" expression="user" liveUpdate="False" />
+    <Watch file="TimeTrackerMobile\LogInActivity.cs" line="102" offsetX="627" offsetY="1616" expression="user" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Time_220Tracker_220Mobile MonoForAntroid.PreferredDevice="Nexus 4" AndroidDeviceId-Debug="7cf67206" AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
