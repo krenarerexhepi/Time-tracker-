@@ -31,9 +31,9 @@ Let me know where did you use it [Write me](krenarerexhepi@gmail.com)
 
 ##Here are some Sceens from app 
 
-[Registration] (images/registration.PNH)
-[Add wifi] (images/addwifi.PNG)
-[Archive](images/archive.PNG)
+![Registration] (images/registration.PNG)
+![Add wifi] (images/addwifi.PNG)
+![Archive](images/archive.PNG)
 
 ## License
 
