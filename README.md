@@ -32,7 +32,7 @@ Let me know where did you use it [Write me](krenarerexhepi@gmail.com)
 ##Here are some Sceens from app 
 
 ![Registration] (images/registration.PNG)
-![Add wifi] (images/addwifi.PNG)
+![Add wifi] (addwifi.jpg)
 ![Archive](images/archive.PNG)
 
 ## License
