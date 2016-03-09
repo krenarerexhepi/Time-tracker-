@@ -1,9 +1,9 @@
 # Time Tracker
 
 This is android mobile app created in Xamarin Studio. 
-*If you want to save In and out data of connected WiFi you can do this by using this app.
-*App will work only if it is in running mode. 
-*You can Log in when you are in WiFi range and Log out when you out of range and app will save you data in archive 
+* If you want to save In and out data of connected WiFi you can do this by using this app.
+* App will work only if it is in running mode. 
+* You can Log in when you are in WiFi range and Log out when you out of range and app will save you data in archive 
 
 ## How to Use
 
@@ -31,9 +31,9 @@ Let me know where did you use it [Write me](krenarerexhepi@gmail.com)
 
 ##Here are some Sceens from app 
 
-[Registration] (images/registration.png)
-[Add wifi] (images/addwifi.png)
-[Archive](images/archive.png)
+[Registration] (images/registration.PNH)
+[Add wifi] (images/addwifi.PNG)
+[Archive](images/archive.PNG)
 
 ## License
 
